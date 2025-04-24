@@ -16,7 +16,7 @@ for frame in (main_screen, quiz_screen, practice_screen):
 
 # Global Variables
 flashcard_set_pady, new_termy = 10, 250
-
+#gshmsshbjahngionajn
 # Flashcard Classes
 class Flashcards:
     class FlashcardEntry:
